@@ -1,3 +1,3 @@
-# Block Warriors Lobby
+# Block Warriors World
 
-> The lobby for block warriors.
+> The lobby and mini-game maps for block warriors.
