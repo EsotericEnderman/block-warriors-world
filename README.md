@@ -1,3 +1,3 @@
 # Block Warriors World
 
-> The lobby and mini-game maps for block warriors.
+> The lobby and mini-game maps for the '[Block Warriors](https://github.com/EsotericEnderman/block-warriors-lobby)' Minecraft plugin.
